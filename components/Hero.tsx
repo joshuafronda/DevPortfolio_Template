@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
     <section id="about" className="min-h-screen flex items-center py-20">
       <div className="max-w-4xl">
         <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight mb-4">
-          Hi, I'm <span className="text-cyan-400">Alex Doe</span>.
+          Hi, I'm <span className="text-cyan-400">DevJosh</span>.
         </h1>
         <h2 className="text-3xl md:text-5xl font-bold text-gray-400 mb-6 min-h-[3rem] md:min-h-[4rem]">
           {subtitleText}
